@@ -12,7 +12,7 @@
 =================</br>
  <a href="#sobre">Sobre</a> •
  <a href="#funcionalidades">Funcionalidades</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#telas">Telas</a> • 
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
@@ -32,4 +32,6 @@
 </br>
 
 
+<p id="telas"><h3> #Telas </h3></br>
 
+<img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/Principalpg.png">
