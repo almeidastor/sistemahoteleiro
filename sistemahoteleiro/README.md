@@ -12,16 +12,19 @@
 =================</br>
  <a href="#sobre">Sobre</a> •
  <a href="#funcionalidades">Funcionalidades</a> • 
+ <a href="#requisitos">Pré-requisitos</a> • 
  <a href="#telas">Telas</a> • 
  <a href="#macros">Macros por Botão</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 
 </br>
 <p id="sobre"><h3> #Sobre </h3></br>
  Planilha realiza por meio de macros o cadastro, edição e exclusão de hóspedes, localiza quartos ocupados em um intervalo de data e calcula valores conforme tabela de preços. </p></br>
+
+ <p id="requisitos"><h3> #Pré-requisitos </h3></br>
+ <p> Minimo Microsoft Excel 2007</p></br>
+
 
 <p id="funcionalidades"><h3> #Funcionalidades </h3></br>
 	<ul> 
@@ -40,8 +43,8 @@
 <img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/dadoshoteleiros.png"></br>
 <p><h4> •Valores</h4></br>
 <img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/valoreshoteleiros.png"></br>
-
 </br>
+
 
 <p id="macros"><h3> #Macros por Botão </h3></br>
 <p><h4> •Novo Cadastro</h4></br>
@@ -54,3 +57,7 @@
 <p>Direciona para a aba <a href="#dados">dados</a></p></br>
 <p><h4> •Reajuste</h4></br>
 <img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/reajust.png"></br>
+
+
+<p id="autor"><h3> #Autor </h3></br>
+<p><a href="https://github.com/almeidastor"> almeidastor </a></p>
