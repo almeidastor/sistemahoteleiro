@@ -23,11 +23,12 @@
  Planilha realiza por meio de macros o cadastro, edição e exclusão de hóspedes, localiza quartos ocupados em um intervalo de data e calcula valores conforme tabela de preços. </p></br>
 
 <p id="funcionalidades"><h3> #Funcionalidades </h3></br>
-- [x] Cadastro
-- [x] Edição
-- [x] Exclusão
-- [x] Consulta
-- [ ] Relatório
+	<ul> 
+    <li>✔️ Cadastro</li> 
+    <li>✔️ Edição</li> 
+    <li>✔️ Exclusão</li> 
+    <li>✔️ Consulta</li>
+    </ul>
 </br>
 
 
