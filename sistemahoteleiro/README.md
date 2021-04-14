@@ -1,4 +1,4 @@
-#PLANILHA SISTEMA HOTELEIRO
+<h1 align="center">Planilha Sistema Hoteleiro</h1>
 
 # Sistema de cadastro e edição de Hospedes
 
