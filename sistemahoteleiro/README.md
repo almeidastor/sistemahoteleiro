@@ -34,4 +34,6 @@
 
 <p id="telas"><h3> #Telas </h3></br>
 
-<img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/Principalpg.png">
+<img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/Principalpg.png"></br>
+<img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/dadoshoteleiros.png"></br>
+<img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/valoreshoteleiros.png"></br>
