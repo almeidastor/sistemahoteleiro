@@ -2,7 +2,7 @@
 
 <p align="center"> Sistema de cadastro e edição de Hospedes</p>
 
-<p style=”color:red”>Em caso de erro ao referenciar objetos de tipo Date, copie o arquivo MSCAL.OCX para a pasta C:\Windows\System32 e reinicie a planilha</p>
+<p style=”color:red”>Em caso de erro ao referenciar objetos de tipo Date, copie o arquivo <b>MSCAL.OCX</b> para a pasta C:\Windows\System32 e reinicie a planilha</p>
 
 =================
 <!--ts-->
@@ -19,5 +19,5 @@
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-#Sobre
+(#Sobre)
 <p> Planilha realiza cadastro por meio de macros, localiza quartos ocupados em um intervalo de data </p>
