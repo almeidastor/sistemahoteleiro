@@ -15,7 +15,7 @@
 </p>
 
 </br>
-<p id="sobre"><h2> #Sobre </h2></br>
+<p id="sobre"><h3> #Sobre </h3></br>
  Planilha realiza por meio de macros o cadastro, edição e exclusão de hóspedes, localiza quartos ocupados em um intervalo de data e calcula valores conforme tabela de preços. </p>
 
 
