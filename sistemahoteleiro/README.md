@@ -2,7 +2,7 @@
 
 <p align="center"> Sistema de cadastro e edição de Hospedes</p>
 
-<p style=”color:red”>Em caso de erro ao referenciar objetos de tipo Date, copie o arquivo <b><a href="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Biblioteca/MSCAL.OCX">MSCAL.OCX</a></b> para a pasta C:\Windows\System32 e reinicie a planilha</p>
+<p style=”color:red”>Em caso de erro ao referenciar objetos de tipo Date, copie o arquivo <b><a href="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Biblioteca/MSCAL.OCX" download="MSCAL.OCX">MSCAL.OCX</a></b> para a pasta C:\Windows\System32 e reinicie a planilha</p>
 
 <p align="center">
 =================</br>
