@@ -13,6 +13,7 @@
  <a href="#sobre">Sobre</a> •
  <a href="#funcionalidades">Funcionalidades</a> • 
  <a href="#telas">Telas</a> • 
+ <a href="#macros">Macros por Botão</a> • 
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
@@ -33,7 +34,23 @@
 
 
 <p id="telas"><h3> #Telas </h3></br>
-
+<p><h4> •Hotel</h4></br>
 <img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/Principalpg.png"></br>
+<p id="dados"><h4> •dados</h4></br>
 <img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/dadoshoteleiros.png"></br>
+<p><h4> •Valores</h4></br>
 <img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/valoreshoteleiros.png"></br>
+
+</br>
+
+<p id="macros"><h3> #Macros por Botão </h3></br>
+<p><h4> •Novo Cadastro</h4></br>
+<img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/novoclient.png"></br>
+<p><h4> •Consultas</h4></br>
+<img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/consult.png"></br>
+<p><h4> •Edições</h4></br>
+<img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/edit.png"></br>
+<p><h4> •Acesso ao Banco de Dados</h4></br>
+<p>Direciona para a aba <a href="#dados">dados</a></p></br>
+<p><h4> •Reajuste</h4></br>
+<img src="https://github.com/almeidastor/VBAExcel/blob/main/sistemahoteleiro/Screenshots/reajust.png"></br>
