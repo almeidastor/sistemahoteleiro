@@ -5,8 +5,8 @@
 <p style=”color:red”>Em caso de erro ao referenciar objetos de tipo Date, copie o arquivo <b>MSCAL.OCX</b> para a pasta C:\Windows\System32 e reinicie a planilha</p>
 
 <p align="center">
-=================
- <a href="#sobre">Objetivo</a> •
+=================</br>
+ <a href="#sobre">Sobre</a> •
  <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
@@ -14,6 +14,6 @@
  <a href="#autor">Autor</a>
 </p>
 
-
 </br>
-<p id="sobre"> Planilha realiza cadastro por meio de macros, localiza quartos ocupados em um intervalo de data </p>
+<p id="sobre"> #Sobre
+ Planilha realiza cadastro por meio de macros, localiza quartos ocupados em um intervalo de data </p>
