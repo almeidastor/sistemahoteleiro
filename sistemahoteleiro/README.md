@@ -14,5 +14,5 @@
  <a href="#autor">Autor</a>
 </p>
 
-#sobre
+<title>sobre</title>
 <p> Planilha realiza cadastro por meio de macros, localiza quartos ocupados em um intervalo de data </p>
